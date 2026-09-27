@@ -1,0 +1,17 @@
+.build/
+.swiftpm/
+dist/
+.build-native/
+.DS_Store
+*.log
+*.tar
+*.tar.gz
+*.ips
+*.mobileprovision
+*.p12
+.env*
+backups/
+sessions/
+*.xcuserstate
+
+.private/
